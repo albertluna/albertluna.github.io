@@ -9,8 +9,8 @@
 
 ---
 [SmartPiano]
-  Server Repository(https://github.com/albertluna/SmartPiano_Server)
-  Client Repository(https://github.com/albertluna/SmartPiano_Client)
+  [Server Repository](https://github.com/albertluna/SmartPiano_Server)
+  [Client Repository](https://github.com/albertluna/SmartPiano_Client)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
