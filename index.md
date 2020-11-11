@@ -12,7 +12,7 @@ Diseñé un diorama en 3D ambientado en la mitología griega, creando desde cero
 SmartPiano
  - [Server Repository](https://github.com/albertluna/SmartPiano_Server)
  - [Client Repository](https://github.com/albertluna/SmartPiano_Client)
-<img src="images/smartpiano.png?raw=true"/>
+<img src="images/SmartPiano.png?raw=true"/>
 Creación de un piano virtual. Usando el lenguaje de programación java, tuve que crear un programa donde se podía tocar un piano, grabar y reproducir diversas canciones. Con un equipo de 5 personas usando la metodología SCRUM.
 
 ---
