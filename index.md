@@ -4,11 +4,13 @@
 
 ### Proyectos
 
-[Olimp](/sample_page)
+[Olimp](https://github.com/albertluna/Olimp_executable/)
 <img src="/pdf/Foto_Olimp.jpg?raw=true"/>
 
 ---
-[SmartPiano](/pdf/sample_presentation.pdf)
+[SmartPiano]
+  Server Repository(https://github.com/albertluna/SmartPiano_Server)
+  Client Repository(https://github.com/albertluna/SmartPiano_Client)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
