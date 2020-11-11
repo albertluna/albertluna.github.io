@@ -5,15 +5,15 @@
 ### Proyectos
 
 [Olimp](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/foto_olimp.jpg?raw=true"/>
 
 ---
 [SmartPiano](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Un Dimoni Em Ve A Veure](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Un Dimoni Em Ve A Veure](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/)
+<img src="images/UDEVAV_foto.jpg?raw=true"/>
 
 ---
 
