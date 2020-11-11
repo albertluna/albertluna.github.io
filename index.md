@@ -22,7 +22,7 @@
 ### Enlaces
 
 - [Canal de Youtube](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/)
-- [Project 2 Title](http://example.com/)
+- [Perfil de Sketchfab](https://sketchfab.com/albertluna)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
