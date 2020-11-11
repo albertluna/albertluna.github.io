@@ -5,7 +5,7 @@
 ### Proyectos
 
 [Olimp](/sample_page)
-<img src="/pdf/Foto_Olimp.JPG?raw=true"/>
+<img src="/pdf/Foto_Olimp.jpg?raw=true"/>
 
 ---
 [SmartPiano](/pdf/sample_presentation.pdf)
