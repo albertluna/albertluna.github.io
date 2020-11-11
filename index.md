@@ -8,7 +8,7 @@
 <img src="/pdf/Foto_Olimp.jpg?raw=true"/>
 
 ---
-[SmartPiano]
+SmartPiano
  - [Server Repository](https://github.com/albertluna/SmartPiano_Server)
  - [Client Repository](https://github.com/albertluna/SmartPiano_Client)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
