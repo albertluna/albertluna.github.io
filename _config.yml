@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Albert Luna
+logo: "/images/IMG_3723.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Estoy cursando el último curso de Ingniería Multimedia y llevo más de 3 años de experiencia en el área de programación y el diseño. Busco hacer prácticas para consolidar y poner en práctica mis conocimientos en los distintos ámbitos de la multimedia. 
   <br><br>
-  Second description 
+  Estoy interesado en poder desarrollar mi carrera profesional y encontrar un trabajo que encaje con mis aspiraciones.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/albert-luna/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
