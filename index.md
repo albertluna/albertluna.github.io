@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Proyectos
 
-[Project 1 Title](/sample_page)
+[Olimp](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[SmartPiano](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Un Dimoni Em Ve A Veure](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Enlaces
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
