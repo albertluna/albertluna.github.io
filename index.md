@@ -5,7 +5,7 @@
 ### Proyectos
 
 [Olimp](/sample_page)
-<img src="images/foto_olimp.jpg?raw=true"/>
+<img src="pdf/Foto_Olimp.JPG?raw=true"/>
 
 ---
 [SmartPiano](/pdf/sample_presentation.pdf)
@@ -13,7 +13,7 @@
 
 ---
 [Un Dimoni Em Ve A Veure](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/)
-<img src="images/UDEVAV_foto.jpg?raw=true"/>
+<img src="images/UDEVAV_foto.JPG?raw=true"/>
 
 ---
 
