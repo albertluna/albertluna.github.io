@@ -11,7 +11,7 @@
 SmartPiano
  - [Server Repository](https://github.com/albertluna/SmartPiano_Server)
  - [Client Repository](https://github.com/albertluna/SmartPiano_Client)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/smartpiano.jpg?raw=true"/>
 
 ---
 [Un Dimoni Em Ve A Veure](https://www.youtube.com/watch?v=6wn-p90MXIw/)
