@@ -5,7 +5,7 @@
 ### Proyectos
 
 [Olimp](/sample_page)
-<img src="pdf/Foto_Olimp.JPG?raw=true"/>
+<img src="/pdf/Foto_Olimp.JPG?raw=true"/>
 
 ---
 [SmartPiano](/pdf/sample_presentation.pdf)
@@ -13,7 +13,7 @@
 
 ---
 [Un Dimoni Em Ve A Veure](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/)
-<img src="images/UDEVAV_foto.JPG?raw=true"/>
+<img src="/images/UDEVAV_foto.JPG?raw=true"/>
 
 ---
 
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Portfolio de Albert Luna</p>
