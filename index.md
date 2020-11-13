@@ -31,6 +31,14 @@ Programé gran parte del motor de este videojuego. Desde leer las meshes de los 
 Al final creé este minijuego para comprovar que funcionaba el motor.
 
 ---
+Bases de Datos
+ [Estructura y selección](https://github.com/albertluna/BBDD/)
+ Junto a una compañera, usamos el lenguaje sql para gestionar el almacenamiento de información en bases de datos. Creamos un modelo de tablas de datos basados en la información de tres grandes archivos .csv, de manera que pudimos extraer información relevante de la base de datos.
+ 
+ [Usuarios y gestión Java](https://github.com/albertluna/BBDDJava/)
+ Mediante un programa Java, creé un programa que se connecta a una base de datos OLTP de un servidor y diseñé una base de datos OLAP a partir de la información original y aprendí las diferencias entre los dos sistemas de almacenamiento de datos.
+ 
+---
 [Hungry Birds](https://github.com/albertluna/HungryBirds/)
 
 
