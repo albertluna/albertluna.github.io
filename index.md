@@ -3,6 +3,8 @@
 ---
 ## Enlaces
 
+- [Perfil de LinkedIn](https://www.linkedin.com/in/albert-luna/).
+- [Perfil de Github](https://github.com/albertluna/).
 - [Canal de Youtube](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/). Aquí subo los vídeos de los proyectos que he hecho.
 - [Perfil de Sketchfab](https://sketchfab.com/albertluna). Aquí subo todas mis creaciones 3D.
 
