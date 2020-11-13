@@ -32,9 +32,10 @@ Al final creé este minijuego para comprovar que funcionaba el motor.
 
 ---
 [Hungry Birds](https://github.com/albertluna/HungryBirds/)
-<img 
+
 
 Con un grupo de cuatro personas, creamos un prototipo de videojuego con Unity. El juego es de una águila que dispara a otras aves para comérselas y tiene que evitar que éstas la ataquen.
+
 ---
 
 ### Enlaces
