@@ -1,6 +1,12 @@
 ## Portfolio
 
 ---
+### Enlaces
+
+- [Canal de Youtube](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/)
+- [Perfil de Sketchfab](https://sketchfab.com/albertluna)
+
+---
 
 ### Proyectos
 
@@ -49,13 +55,6 @@ Bases de Datos
 <img src="images/Captura_HungryBirds.PNG?raw=true"/>
 
 Con un grupo de cuatro personas, creamos un prototipo de videojuego con Unity. El juego es de una águila que dispara a otras aves para comérselas y tiene que evitar que éstas la ataquen.
-
----
-
-### Enlaces
-
-- [Canal de Youtube](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/)
-- [Perfil de Sketchfab](https://sketchfab.com/albertluna)
 
 ---
 Personajes casal
