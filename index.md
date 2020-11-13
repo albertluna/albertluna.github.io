@@ -23,12 +23,18 @@ Creación de un piano virtual. Usando el lenguaje de programación java, creamos
 
 Durante el primer confinamiento, tuve que crear un cortometraje yo solo con Premiere Pro. Incluyendo un elemento 3D con After Effects y 4d cinema y vídeos hechos con croma. 
 
+---
 [Spaceship videogame](https://github.com/albertluna/Space_videogame/)
 <img src="images/SpaceGame.png?raw=true"/>
 
 Programé gran parte del motor de este videojuego. Desde leer las meshes de los gameobjects hasta la configuración de los shaders y las colisiones del videojuego.
 Al final creé este minijuego para comprovar que funcionaba el motor.
 
+---
+[Hungry Birds](https://github.com/albertluna/HungryBirds/)
+<img 
+
+Con un grupo de cuatro personas, creamos un prototipo de videojuego con Unity. El juego es de una águila que dispara a otras aves para comérselas y tiene que evitar que éstas la ataquen.
 ---
 
 ### Enlaces
