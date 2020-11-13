@@ -32,6 +32,7 @@ Al final creé este minijuego para comprovar que funcionaba el motor.
 
 ---
 Bases de Datos
+--
  [Estructura y selección](https://github.com/albertluna/BBDD/)
  Junto a una compañera, usamos el lenguaje sql para gestionar el almacenamiento de información en bases de datos. Creamos un modelo de tablas de datos basados en la información de tres grandes archivos .csv, de manera que pudimos extraer información relevante de la base de datos.
  
