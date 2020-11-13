@@ -5,12 +5,14 @@
 ### Proyectos
 
 [Olimp](https://github.com/albertluna/Olimp_executable/)
+--
 <img src="/pdf/Foto_Olimp.jpg?raw=true"/>
 
 Diseñé un diorama en 3D ambientado en la mitología griega, creando desde cero todos los objectos 3D con 3DS Max, texturizándolos con Substance Painter y juntándolo en Unity. Con efectos de postproducción.
 
 ---
 SmartPiano
+--
  - [Server Repository](https://github.com/albertluna/SmartPiano_Server)
  - [Client Repository](https://github.com/albertluna/SmartPiano_Client)
 <img src="images/SmartPiano.png?raw=true"/>
@@ -19,12 +21,14 @@ Creación de un piano virtual. Usando el lenguaje de programación java, creamos
 
 ---
 [Un Dimoni Em Ve A Veure](https://www.youtube.com/watch?v=6wn-p90MXIw/)
+--
 <img src="/images/UDEVAV_foto.JPG?raw=true"/>
 
 Durante el primer confinamiento, tuve que crear un cortometraje yo solo con Premiere Pro. Incluyendo un elemento 3D con After Effects y 4d cinema y vídeos hechos con croma. 
 
 ---
 [Spaceship videogame](https://github.com/albertluna/Space_videogame/)
+--
 <img src="images/SpaceGame.png?raw=true"/>
 
 Programé gran parte del motor de este videojuego. Desde leer las meshes de los gameobjects hasta la configuración de los shaders y las colisiones del videojuego.
@@ -41,7 +45,7 @@ Bases de Datos
  
 ---
 [Hungry Birds](https://github.com/albertluna/HungryBirds/)
-
+--
 
 Con un grupo de cuatro personas, creamos un prototipo de videojuego con Unity. El juego es de una águila que dispara a otras aves para comérselas y tiene que evitar que éstas la ataquen.
 
@@ -54,6 +58,7 @@ Con un grupo de cuatro personas, creamos un prototipo de videojuego con Unity. E
 
 ---
 Personajes casal
+-
 <img src="/images/CI_casal.png?raw=true"/>
 
 Diseñé estos personajes para el casal donde estuve de monitor. 
