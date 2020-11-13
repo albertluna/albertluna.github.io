@@ -29,12 +29,13 @@ Durante el primer confinamiento, tuve que crear un cortometraje yo solo con Prem
 
 - [Canal de Youtube](https://www.youtube.com/channel/UCwkT-sYdwxnXuFxn2ChyB_Q/)
 - [Perfil de Sketchfab](https://sketchfab.com/albertluna)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
+Personajes casal
+<img src="/images/CI_casal.png?raw=true"/>
 
+Diseñé estos personajes para el casal donde estuve de monitor. 
+Colaboración con @martaboutme. 
 
 
 
