@@ -46,6 +46,7 @@ Bases de Datos
 ---
 [Hungry Birds](https://github.com/albertluna/HungryBirds/)
 --
+<img src="images/Captura_HungryBirds.PNG?raw=true"/>
 
 Con un grupo de cuatro personas, creamos un prototipo de videojuego con Unity. El juego es de una águila que dispara a otras aves para comérselas y tiene que evitar que éstas la ataquen.
 
