@@ -103,6 +103,8 @@ body:after {
 .bg-vermell-fosc {
   background: #03c03c06;
   color:rgb(255, 255, 255);
+  text-align: center;
+
 }
 .bg-linkedin {
   background: #2172b0cc;
